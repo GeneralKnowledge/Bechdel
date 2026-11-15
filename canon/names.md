@@ -75,3 +75,4 @@ Retired names: Merrit, Vane, Haskett.
 | the Account | Dorcas Pryor's *An Account of Senna Aldous*, 660 |
 | *The Schoolmistress's Letters* | Senna's letters as the Wexham meeting house knows them |
 | the *Courier* | The *Calloway Courier* |
+| Gilmour's | The solicitors on Wexham high street who act for Orla |
