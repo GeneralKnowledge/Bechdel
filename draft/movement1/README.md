@@ -40,6 +40,7 @@
 | C16 the tomb | I-07: "OUT OF THE GRAVE SIGNED WITH HER HAND", read "as a registrar would, literally" | High | The saint's own grave, marked by her | Turns in V-06 | With C20, C26, C28, C18 |
 | C20 alms book | I-03: "Jory of the porch, bread and a blanket", once, among three entries; I-07: the case comes into three photographs | Low, as intended | A charity list | Turns in V-06 | Second-layer plant 1 |
 | C22 the hymn | I-02 and I-07: "another hand will", passed from altos to sopranos | High | Comfort; Juno's music | Turns in VI-01 | Independent |
+| C32 the struck word | I-03: "a word struck through, the replacement written after it… a grey bar"; I-07: "in the fourth the roll lay open at the eastern parishes… she took that page whole" | Low | One correction among hundreds | Turns in II-02 against the cancelled roll | Corroborates C02, by design |
 | C24 the letter from M. | I-05: "an upright and heavy hand… signed only with an M." | Medium | Not about the orchard; set aside | Turns in IV-05 | Independent |
 | C25 taking in | I-08: Nell, 1890; "You say she's yours, and then she is" | High | A custom, briefly charming | Turns in VI-05 | Independent |
 | C26 the porch woman | I-08: "Spoiled madder… to the woman on the chapel porch… Nobody does." No leg, vats or name | Medium-low | Marit's charity | Turns in V-06 with C18 | Second-layer plant 2 |
@@ -48,6 +49,6 @@
 ## Things to check at the outside read
 
 1. **The second layer.** I-X now shares "the porch" with I-03 and I-08, and the brown cloth that "smells of roots" with Marit's madder. If readers name Jory as important after Movement I (questionnaire 13 and 14), soften the cloth first.
-2. **I-03's struck word.** In the facsimile, Senna's correction on the Rook line is beside "middle", with the struck word illegible. It is not in the ledger. If the original in the chapel shows the struck word was "eastern edge", it is Senna slipping into the forged line she spent a winter correcting, which is what the 668 letter also does. Proposed as a new clue for Reuben to accept or cut; until then it is texture.
+2. **I-03's struck word** is now clue C32 (Reuben, 15 Nov): the struck word is "eastern edge", corroborating C02, not independent proof. I-03 keeps it illegible in the facsimile; I-07 gained one clause so that Tamsin photographs the original eastern page without looking for it; II-02 pays it off.
 3. **I-06's last clause** may tell what Perpetua's lens should only show.
 4. **Order of scenes.** Both pilot readers noticed that the Reading makes sense of Tamsin's catch only if they remembered I-05. The order is right; the outside reader will show whether it lands.
