@@ -6,7 +6,7 @@
 
 ---
 
-Now in the spring of the year six hundred and forty-seven there came against the Registry of Calloway certain women of a great house, who had corrupted the rolls of the eastern lands and feared the truth of them. And they came up from the river in the night, when Senna Aldous was alone among the rolls with the lamp.
+Now in the spring of the year six hundred and forty-seven there came against the Registry of Calloway certain of a great house, who had corrupted the rolls of the eastern lands and feared the truth of them. And they came up from the river in the night, when Senna Aldous was alone among the rolls with the lamp.
 
 She heard them at the gate, and she did not run. She set her back against the door and her hand upon the bolt, and she called to her sisters of the Registry to carry the true rolls out by the chapel way.
 

@@ -110,6 +110,8 @@ Every historical woman acted on what she knew at the time. **No document is writ
 | **Accounts, alms book, infirmary book, fines** | One line each, in columns | | | "B. L., for her word." |
 | **Fen's columns** (1022) | Breezy, confident, half right. A public clock and comic relief. | Whatever will make next week's column | That she is often right by accident | |
 
+**Marit and Senna must not share a wit** (voice pilot, 15 Nov: a cold reader heard the same dry, deflating humour in both). Senna's humour is a turned sentence, a clerk's precision used for comedy ("which is to say the bread is bad"). Marit's is flatter and blunter: a fact set down next to another fact, money, a grievance, and no turn at the end. When Marit is funny it is because she is cross, and she quotes other people's jokes (her mother's) rather than making them.
+
 ## Interludes
 
 Present tense, a few pages each, in the voices the record left out: Jory on the porch, Bett on the day she took the steward's money, the cataloguer at her desk, perhaps Hanne Rusk. They never name Senna. Each reads on first meeting as atmosphere and on second reading as evidence. Jory's must not reveal where she is buried.
