@@ -36,11 +36,11 @@ Each is sincerely held by someone intelligent with a reason, and each fails on a
 
 | Theory | Who holds it, and why | What it predicts | What disproves it | What it leaves behind |
 |---|---|---|---|---|
-| The Wexham Senna was a pupil who learned the saint's hand | Perpetua: registry hands were taught | She appears in training records, and her stroke varies | Her letters know the forged boundary (C02), and Dorcas writes to her by name in 655 (C14) | The stroke is personal |
-| The letters are a later forgery by the Rooks, to claim descent | Hesketh, to protect the Cause; Fen, for a story | Paper and ink later than 678 | Examination dates them right, and the meeting house has had copies since the 700s (C04) | Hesketh concedes gracefully. **A point to the sceptic.** |
+| The Wexham Senna was a pupil who learned the saint's hand | Perpetua: registry hands were taught (II-06, III-02) | She appears in training records, and her stroke varies | Her letters know the forged boundary (C02), and Dorcas writes to her by name in 655 (C14) | The stroke is personal |
+| The letters are a later forgery by the Rooks, to claim descent | Hesketh, to protect the Cause (II-06); Fen, for a story | Paper and ink later than 678 | Examination dates them right, and the meeting house has had copies since the 700s (C04) | Hesketh concedes gracefully. **A point to the sceptic.** |
 | Senna really was a forger, and the Teagues were robbed | Delphine's family tradition | Survey evidence supports the Teague entries | Senna's 645 notes cite older surveys that support the copies (C27); the steward bought the witness (C13) | The copies are better than the originals were. **A point to the believers:** she was what they said |
-| Senna and Dorcas forged the copies to seize Teague land for the Order (the midpoint reversal) | Tamsin herself, once the ink, the 649 settlement and Dorcas's rise line up | The copies depart from older surveys in the Order's favour | They match the older surveys exactly, against the Order's own interest in several places (C27) | Dorcas profited, but the copies are honest |
-| The bones are Senna's after all: hardship aged her | Hesketh's first expert | A thirty-one-year-old with a hard life can look older | A second expert disagrees about age; the healed break matches the infirmary book (C18); the alms book stops that week (C20) | Science alone does not settle it. Documents do |
+| Senna and Dorcas forged the copies to seize Teague land for the Order (the midpoint reversal) | Tamsin herself, once the ink, the 649 settlement and Dorcas's rise line up (III-09); disproved by her own photograph (IV-01) | The copies depart from older surveys in the Order's favour | They match the older surveys exactly, against the Order's own interest in several places (C27) | Dorcas profited, but the copies are honest |
+| The bones are Senna's after all: hardship aged her | Hesketh's first expert (V-02) | A thirty-one-year-old with a hard life can look older | A second expert disagrees about age; the healed break matches the infirmary book (C18); the alms book stops that week (C20) | Science alone does not settle it. Documents do |
 
 ## Misreadings in the present (from Ides's "the conspiracy runs too smoothly")
 
@@ -49,7 +49,9 @@ A reader of Ides Book 1 found the plotters read every situation too fast. The eq
 | Who | Misreading | Consequence |
 |---|---|---|
 | Tamsin | III: Senna and Dorcas as forgers | She tells Perpetua, who files a preliminary report that Agnes then uses against her |
-| Kate | **(proposed)** I to II: that Tamsin's silence after the Reading is grief for her lapsed faith, not a discovery | Kate tells the Cause committee Tamsin will help |
+| Kate | I to II: that Tamsin's silence after the Reading is grief for her lapsed faith, not a discovery | Kate lets the Cause committee believe Tamsin will help (II-03), and Tamsin hears of it on Hild's Day (II-07) |
 | Perpetua | The pupil theory | She spends a movement on training records and is right that hands were taught |
 | Hesketh | The Rook forgery theory | She commissions her own examination of the bones in V to save the Cause, which condemns it |
-| Bryony | **(proposed)** I: that giving Tamsin the letters keeps them private | They are in Fen's column within weeks |
+| Bryony | I: that giving Tamsin the letters keeps them private | Tamsin's interim report has to cite the letter; Orla gives the report to Fen, and the letters are in Fen's column by 15 January (II-05) |
+| Tamsin | IV: Marit's petition as Marit making the break final | She keeps it from Perpetua and from Kate until Kate reads it as hope (V-05) |
+| Delphine | IV: "B. L., for her word" as Benedicta paying herself for a statement | Tamsin corrects her from the tribunal record, and Delphine understands the rest before she is told (IV-04) |

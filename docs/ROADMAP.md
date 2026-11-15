@@ -8,10 +8,10 @@ Complete the world and the six-movement storyboard before writing the novel.
 
 | Priority | Item | Purpose | Notes |
 |---|---|---|---|
-| P1 | **World and society bible** | Make the civilisation exist independently of the mystery | Small, not an encyclopedia. Governing rule: the world must make sense with the mystery removed. Ordinary domestic life; work, money and status; friendships and rivalries with nothing to do with the investigation; humour and ordinary frustrations; politics; people who do not care about Senna Aldous. The faith needs disagreements unconnected to the Cause. Women are the entire human cast, and nothing in it explains or comments on that. Proposed home: `world/`. |
-| P1 | **Movements II to VI storyboard** | Finish stage 3 | With a questionnaire and key for each movement. |
+| P1 | **World and society bible** (first version done, 15 Nov: [world/](../world/README.md)) | Make the civilisation exist independently of the mystery | Small, not an encyclopedia. Governing rule: the world must make sense with the mystery removed. Ordinary domestic life; work, money and status; friendships and rivalries with nothing to do with the investigation; humour and ordinary frustrations; politics; people who do not care about Senna Aldous. The faith needs disagreements unconnected to the Cause. Women are the entire human cast, and nothing in it explains or comments on that. Proposed home: `world/`. |
+| P1 | **Movements II to VI storyboard** (done, 15 Nov) | Finish stage 3 | With a questionnaire and key for each movement. |
 | P1 | **Evidence dependency graph** | Show how several clues combine into one deduction, and find any revelation that rests on a single document | A `supports` column in `mystery/clues.tsv` (for example C01, C02, C05 and C27 together support "the relics are Senna's honest copies"), and a short report from the storyboard check. |
-| P1 | **Character relationship map** | Track alliances, conflicts, loyalties and how relationships change | Both centuries. |
+| P1 | **Character relationship map** (present day, start and end: [world/people.md](../world/people.md)) | Track alliances, conflicts, loyalties and how relationships change | Both centuries. The 647 side is still to do. |
 | P1 | **Timeline consistency checks** | Cross-check ages, dates, journeys and when each document was made | Extend `canon/chronology.md` into data a script can read. |
 | P2 | Document authenticity checks | Each document sounds like its author and its period | A reading check against the document mind sheets, not a score. |
 | P2 | Mystery reader simulation | Test competing theories and find premature revelations | |

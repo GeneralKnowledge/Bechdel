@@ -1,6 +1,6 @@
 # Blind voice pilot
 
-Stage 4. Not started. Runs once the whole book is storyboarded and Reuben has approved the contract.
+Stage 4. **Packet ready, 15 Nov 2026**: the two scenes (I-05, I-08) are drafted at full length, the four documents are canon, and the shuffled packet and its key are in project files (`bechdel/pilot/packet.md`, `bechdel/pilot/key.md`). Waiting for a reader.
 
 On *Ides*, Books 2 and 0 each wrote three storyboarded scenes at full length before any other prose, shuffled them unlabelled with three scenes from the finished Book 1, and asked an outside reader to rank them and say whether any read as a different writer or knew too much. Both passed, and the first outside reader of Book 0's full draft asked only for a restrained pass. Book 1, which had no pilot, needed a full-book voice pass after an outside reader found every viewpoint thought alike.
 
