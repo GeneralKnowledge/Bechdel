@@ -1,0 +1,61 @@
+# Names
+
+**Rule:** one handle, one person. A handle is the name the narration uses for someone; "Also on the page" lists the other names the text uses for her. Before a new person gets a name, check this file. `python3 tools/names_check.py` fails if any name appears twice and lists pairs close enough to confuse a reader.
+
+The **Near** column records known near-clashes and what is done about them. Three in the plan are worth fixing before drafting; see [PLAN_FINDINGS.md](../docs/PLAN_FINDINGS.md) items 1 to 3. Until Reuben chooses, the plan's names stand.
+
+## 1022
+
+| Handle | Also on the page | Who | POV | Near |
+|---|---|---|---|---|
+| Tamsin | Tamsin Hale | Title researcher, 39; ordained at the Calloway registry at 22, freelance since a falling-out with Agnes | Main | Bale (Honor), surnames only; low |
+| Juno | Juno Marr | Tamsin's hearth partner, 36; music teacher, rehearsing the anniversary choir | No | |
+| Kate | Kate Aldous | Tamsin's oldest friend, 40; ward nurse; descended from Marit's son Tobi; on the lay committee for the Cause | Yes | |
+| Aunt Ros | Rosamund Aldous | Kate's aunt, who holds the Aldous family papers, Marit's diary among them. **New name**, needed for I-04 | No | |
+| Orla | Orla Rook | The elder Rook sister, 51; pharmacist; wants to sell the orchard | No | Oriel (different centuries; never in one scene) |
+| Bryony | Bryony Rook | The younger sister, 46; works the orchard; reads at the Wexham meeting house | Yes | |
+| Hesketh | Mother Hesketh, Mother Hesketh Lorne | Advocate of the Cause; a believing historian | No | **Haskett** (Win Haskett); fix proposed |
+| Perpetua | Sister Perpetua, Perpetua Vane | Examiner of the Cause; palaeographer; Hesketh's friend of thirty years | Yes | **Vance** (Oriel Vance); fix proposed |
+| Delphine | Delphine Teague, Councillor Teague | City councillor running a housing programme; Benedicta's descendant | No | |
+| Agnes | Agnes Mure, the Registrar-General | Tamsin's former superior, two years from retirement | No | |
+| Fen | Fen Archer | Writes the *Calloway Courier*'s anniversary column, "Senna for our times" | No (columns as documents) | |
+| Honor | Honor Bale | 81; has read the Great Life aloud at the anniversary for forty years | No | Hale (Tamsin), surnames only; low |
+| Win | Win Haskett | Keeper of the Wexham school records | No | **Hesketh**; Wren (weak) |
+
+## 616 to 701
+
+| Handle | Also on the page | Who | Dates | Near |
+|---|---|---|---|---|
+| Senna | Senna Aldous; the saint; the schoolmistress | Junior registrar, then Wexham schoolmistress | 616 to 678 | |
+| Marit | Marit Aldous | Dyer; Senna's hearth partner; the diary | 612 to 690 | **Merrit**; fix proposed |
+| Wren | | Marit's daughter, 7 in 647 | born 640 | Win (weak) |
+| Tobi | | Marit's son, 4 in 647; Kate's ancestor | born 643 | |
+| Dorcas | Dorcas Pryor, Keeper Pryor | Senna's fellow clerk and friend; keeper from 655; the 660 Account | 619 to 694 | |
+| Carrow | Ysolde Carrow, Keeper Carrow | Keeper of the registry; made the forgeries | 590 to 651 | |
+| Benedicta | Benedicta Teague | Head of the Teague household; sat on the tribunal; commissioned the forgery | | **Bett** (Bett is a short form of Benedicta; both are in the 647 tribunal) |
+| Hanne Rusk | the steward | Benedicta's steward; paid the witness | | |
+| Bett | Bett Langley | Registry porter, unordained; paid to testify | | **Benedicta** |
+| Jory | Jory of the porch | The lame woman of the porch; never written | about 587 to 647 | |
+| Lise | Lise Rook | Wexham schoolmistress and Plain Keeper who took Senna in | 620 to 701 | |
+| Merrit | | Senna's daughter, born in Wexham | born 652 | **Marit**; fix proposed |
+
+## Later
+
+| Handle | Also on the page | Who | Dates | Near |
+|---|---|---|---|---|
+| Oriel Vance | Keeper Vance | Keeper during the schism; wrote the Great Life; ordered the translation | about 760 to 830 | **Vane** (Perpetua); Orla (weak) |
+| Hild | Saint Hild, Saint Hild of the Door | Much older saint who held a roll-house door against raiders; her death is borrowed for the Great Life | | |
+| the cataloguer | | Order archivist who filed Marit's petition; no name in the record | about 900 | |
+
+## Institutions and texts
+
+| Handle | What |
+|---|---|
+| the Keeping | The faith: to be written is to be kept |
+| the Order | The Order of Keepers, seat in Calloway |
+| the Plain Keeping | The dissenting Keepers, strong in Wexham |
+| the Cause | The Order's process for Senna's elevation |
+| the Great Life | Oriel Vance's Life of Senna, about 800 |
+| the Account | Dorcas Pryor's *An Account of Senna Aldous*, 660 |
+| *The Schoolmistress's Letters* | Senna's letters as the Wexham meeting house knows them |
+| the *Courier* | The *Calloway Courier* |

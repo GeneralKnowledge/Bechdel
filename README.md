@@ -1,0 +1,48 @@
+# The Grave Signed with Her Hand
+
+*A novel of the Thousand-Year World*
+
+by Reuben Dennison
+
+---
+
+Every year the city of Calloway reads aloud the Life of Senna Aldous, the registrar who died for the rolls in 647. The rolls she saved hang in the Registry Chapel. Her body lies in the chapel tomb. In the 375th year after her death, the Order of Keepers is ready to make her a saint.
+
+Tamsin Hale, a title researcher who once swore her keeper's oath "by Senna's rolls", takes a dull job in the town of Wexham: two sisters, not speaking, fighting over the boundary of an orchard. The younger sister produces a bundle of family letters to settle it. They are signed "Senna" and dated 668, twenty-one years after the saint's death. In the margins is a small hooked correction stroke that Tamsin has looked at every working day of her career.
+
+The record is true. Only its meaning is wrong.
+
+---
+
+This repository is the working home of the novel: its plan, canon, storyboard, voice notes and, later, its drafts. The working story plan is the doc [The Grave Signed with Her Hand: Revised Story Plan](https://claude.ai/artifact/R7xyPomX2ZuymeQyya4d7a). From this repository's first PR on, the files here are the source of truth, and the plan doc is the record of how the story was chosen.
+
+How the work is organised, and why, is in [docs/WORKING_GUIDE.md](docs/WORKING_GUIDE.md). What was borrowed from the *Ides of March* project, and what was deliberately left behind, is in [docs/LESSONS_FROM_IDES.md](docs/LESSONS_FROM_IDES.md).
+
+## Where things stand
+
+| Stage | What | Status |
+|---|---|---|
+| 0 | [Story plan](https://claude.ai/artifact/R7xyPomX2ZuymeQyya4d7a) and Reuben's answers to its checklist | Done, 23 Oct 2026 |
+| 1 | [Contract](CONTRACT.md) | Draft. Items Reuben settled on 23 Oct are marked; the rest are recommendations awaiting his check |
+| 2 | Canon pack: [chronology](canon/chronology.md), [names](canon/names.md), [places](canon/places.md), [the Keeping](canon/faith.md); mystery: [clue ledger](mystery/clues.tsv), [theories and what stays open](mystery/theories.md) | First version, from the plan |
+| 3 | [Mind sheets](voice/MIND_SHEETS.md), [watchlist](voice/WATCHLIST.md), [storyboard](storyboard/README.md), [questionnaire](storyboard/questionnaire.md) | Movement I storyboard v1 (eight scenes and an interlude); Movements II to VI not yet |
+| 4 | [Blind voice pilot](pilot/README.md) | Not started |
+| 5 | Draft by movement | Not started. No prose until the storyboard and the pilot pass |
+| 6 | Structure audit, cold read, freeze | Not started |
+
+Findings from building stages 1 to 3, including things in the plan worth settling before drafting: [docs/PLAN_FINDINGS.md](docs/PLAN_FINDINGS.md).
+
+## Checks
+
+```
+python3 tools/storyboard_check.py   # dates, POV gaps, movement budgets, where the anniversary falls, clue fair play
+python3 tools/names_check.py        # one handle, one person; near-clashes listed
+```
+
+Both run on every pull request.
+
+## Changelog
+
+One line per change.
+
+- 2026-11-15: Repository set up from the plan, using the method learnt on *The Ides of March* (Books 2 and 0). Contract draft, canon pack, clue ledger and theories, mind sheets, watchlist, Movement I storyboard v1 with questionnaire and key, plan findings, check tools and CI.
