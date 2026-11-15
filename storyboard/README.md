@@ -40,6 +40,11 @@ Outside pressures: Orla's buyer and date; Fen's first column; Juno's rehearsals 
 4. **I-08 ends Movement I on Kate, not Tamsin.** The Reading is where the plan says Kate's faith is most persuasive, and Kate's misreading of Tamsin's silence is the first consequential misreading in the book. **Recommended.**
 5. **A Fen column as a document in Movement I.** Not storyboarded as its own row; it appears on the table in I-02. Alternative: open Movement II with it as an epigraph beside the Great Life. **Settled: not for now.** The Great Life and the Account already carry the epigraphs, and not every movement should feel like a documentary presentation.
 
+## Carried into Movement II
+
+- Tamsin's first scene after I-08 has her say "a Reading", once, to Juno ([mind sheets](../voice/MIND_SHEETS.md)).
+- The interlude after Movement II is Hanne Rusk: an errand for her mistress, a note carried, nobody named ([contract](../CONTRACT.md)).
+
 ## Next
 
 Movement II storyboard, then III to VI, each with its questionnaire and key. Then the blind voice pilot ([pilot/README.md](../pilot/README.md)).

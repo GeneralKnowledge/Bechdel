@@ -20,6 +20,6 @@ Complete the world and the six-movement storyboard before writing the novel.
 | P3 | Whole-book continuity audit | Check the finished manuscript against canon | |
 | P3 | Manuscript-to-ledger tool | Compare the drafted prose with the clue ledger: missing evidence, altered dates, inconsistent names, clues in the wrong place | Never a judgement of literary quality. |
 
-## Still open from the plan findings
+## Plan findings
 
-Items 5, 7, 9, 10 and 12 in [PLAN_FINDINGS.md](PLAN_FINDINGS.md).
+All settled (15 Nov). Item 13, the "kept" motif, stays on the watchlist.

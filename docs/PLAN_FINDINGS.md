@@ -15,7 +15,13 @@ Putting the plan into a contract, a chronology, a names table, a clue ledger and
 | 6 | Approved: the Teagues wanted Wexham's eastern land, which went back to the Wexham smallholders in 649 | `canon/chronology.md`, `canon/places.md` |
 | 8 | C26 approved with a refinement: the diary line must not mention the leg, the vats or a name. Jory should be available to the reader, not salient | `mystery/clues.tsv`, `storyboard/scenes.tsv`, `canon/documents/README.md` |
 
-**Still open** (not covered by the review): 5 (Senna's fair copy of her reply), 7 (interlude order), 9 (staging Kate's reading of Marit), 10 ("Reading" as Tamsin's coinage), 12 (the dyeworks as Marit's mother's). Item 11 was settled with the calendar (storyboard choice 3). Item 13 is a watch item.
+| 5 | Senna's fair copy of her reply to Dorcas is canon. Dorcas sends the offer to Wexham; Senna refuses on those terms and keeps a fair copy, which reaches the Rook box. The letters are an exchange between two women, not an explanation for a future reader | `canon/chronology.md` |
+| 7 | Four interludes: Jory after I, Hanne Rusk after II, Bett after III, the cataloguer after IV, none after V; Jory does not return | `CONTRACT.md`, `storyboard/README.md`, `mystery/clues.tsv` |
+| 9 | Kate's reading of Marit is a family disagreement with Aunt Ros, who has a real case; it begins at the Reading in I-08 and Marit's motive is never resolved | `storyboard/scenes.tsv` (I-08), `voice/MIND_SHEETS.md`, `mystery/theories.md`, `canon/names.md` |
+| 10 | Tamsin's "a Reading" is kept: said once, to Juno, in the first Tamsin scene after I-08; never a catchphrase; the narration never uses it in her sense | `voice/MIND_SHEETS.md`, `storyboard/README.md` |
+| 12 | Marit's mother owned a modest dyeworks; Marit worked there from girlhood and knew Jory. Her mother has no further part | `canon/chronology.md`, `canon/names.md`, `canon/places.md` |
+
+Second set, 15 Nov (Reuben, after the second commit): items 5, 7, 9, 10 and 12 above. Every finding is now settled except 13, which is a watch item; item 11 was settled with the calendar (storyboard choice 3).
 
 ## Findings
 

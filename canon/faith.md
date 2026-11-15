@@ -11,14 +11,14 @@ To be written is to be kept. A person endures in the Keeper's care for as long a
 | Practice | Rule | Where the plot uses it |
 |---|---|---|
 | **Rolls** | Every household keeps a roll. The Order keeps the public rolls. Land titles are entered in the registry rolls. | Everywhere |
-| **The Reading** | Once a year each household reads its roll by the hearth, oldest name first. The living answer each name of the dead with "kept". Held on the last night of the year. | I-04 (Kate's family); Kate's faith at its most persuasive; Tamsin's voice catches |
-| **The hymn** | Sung at every Naming Day: *Write her where the fire is kept, / Read her when the house is still; / Though the hand that wrote her fail, / Another hand will, another will.* The last line is about copying. | I-02, I-08; turns in VI |
+| **The Reading** | Once a year each household reads its roll by the hearth, oldest name first. The living answer each name of the dead with "kept". Held on the last night of the year. | I-08 (Kate's family); Kate's faith at its most persuasive; Tamsin's voice catches |
+| **The hymn** | Sung at every Naming Day: *Write her where the fire is kept, / Read her when the house is still; / Though the hand that wrote her fail, / Another hand will, another will.* The last line is about copying. | I-02, I-07; turns in VI |
 | **The keepers' oath** | At ordination a registrar swears "I keep it twice, by Senna's rolls". Tamsin swore it at 22. | VI: Tamsin refuses to renew it |
-| **Taking in** | A household may write into its own roll a dead person who was never kept (a foundling, a stranger who died under its roof). No keeper, no oath: only the household's hearth. Rare and solemn. | Planted in I-04; the ending |
+| **Taking in** | A household may write into its own roll a dead person who was never kept (a foundling, a stranger who died under its roof). No keeper, no oath: only the household's hearth. Rare and solemn. | Planted in I-08; the ending |
 | **Hearth bond** | The bond between partners who keep a household together. In the Order it is dissolved only by death or by the sentence. Plain Keepers may release it by consent. | Marit and Senna; Tamsin and Juno |
 | **Being made dead** | A tribunal sentence. The name moves to the section of the dead in every roll; the hearth bond is dissolved, as death dissolves it; the household reads her name with the dead; she may not enter a Keeping chapel. She is alive, unkept and free to go. Most go to the dissenting towns. By 1022 rare and slightly shameful to mention, like excommunication; few know the old wording. | The whole mystery |
 | **Original by grace** | Since 649 the Order may declare a copy an original. Only the Order. | 649 decree; Agnes's fear in 1022; the final decree |
-| **The Cause** | The Order's process for elevating a saint: an Advocate (Hesketh) argues for it; an Examiner (Perpetua) is paid to doubt; the Order votes. | I-07 onwards |
+| **The Cause** | The Order's process for elevating a saint: an Advocate (Hesketh) argues for it; an Examiner (Perpetua) is paid to doubt; the Order votes. | I-06 onwards |
 
 ## The Plain Keeping
 

@@ -31,7 +31,7 @@ Neither is an order to cut endings, and the watchlist adds the other half: not e
 
 **How a thought moves:** from the mark to the hand to the person. She builds slowly from what is demonstrable and is uncomfortable until she can say "this, therefore this". Her mistakes come from that comfort: she takes demonstrable for true (the plan's phrase), and in Movement III that is exactly how she gets it wrong.
 
-**When she generalises:** about documents, never about people. Her one coinage is professional: she calls a story everyone repeats without checking a "Reading" **(see findings item 10)**.
+**When she generalises:** about documents, never about people. Her one coinage is professional: a story everyone repeats without checking is "a Reading". She says it aloud once, to Juno, in the first Tamsin scene after I-08 (something like "That's what they do with Senna. They have a Reading of her, and nobody reads the record."), and Juno finds it irritating, funny or needlessly professional. It is not a catchphrase, and the narration never uses the word in her sense: it belongs to her professional mind (Reuben, 15 Nov).
 
 **What she cannot or will not say:** that she misses the registry, and that the oath still means something to her. She lapsed quietly and does not argue about it.
 
@@ -60,7 +60,7 @@ Neither is an order to cut endings, and the watchlist adds the other half: not e
 
 **Body:** ward shoes; a nurse's watch pinned upside down; she stands when others sit.
 
-**The risk:** she is the plan's chosen voice for "a woman doing three things at once" about Marit. Give her that as her own family's argument, said to someone with a stake in it, not as the book's verdict (watchlist question 8).
+**The risk:** she is the plan's chosen voice for "a woman doing three things at once" about Marit. Settled (Reuben, 15 Nov): it is always her own family's argument, with Aunt Ros, who believes Marit was protecting the children and is not there to be wrong. Kate is not explaining Marit to Tamsin or the reader. The talk moves on because it is a family gathering, not a seminar (watchlist question 8).
 
 ### Perpetua
 

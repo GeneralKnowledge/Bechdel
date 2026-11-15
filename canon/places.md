@@ -4,7 +4,7 @@
 
 | Place | What it is | Then (647) | Now (1022) |
 |---|---|---|---|
-| Calloway | The city; seat of the Order | Registry, chapel, the Teague household, Marit's dyeworks | Registry, Registry Chapel, Order archive and library, city archive, the *Courier* |
+| Calloway | The city; seat of the Order | Registry, chapel, the Teague household, the dyeworks owned by Marit's mother | Registry, Registry Chapel, Order archive and library, city archive, the *Courier* |
 | The Registry | Where titles are kept and copied | Carrow's registry; Senna and Dorcas clerks | Agnes Mure's; the search room Tamsin uses |
 | The Registry Chapel | Chapel attached to the Registry | Jory slept on its porch; the alms book was kept here | Relic rolls on display; "Senna's" tomb (since about 800); Carrow's tomb; the alms book in a case **(check)** |
 | The field of the unwritten | Burial ground outside the walls for the struck and the unwritten | Jory buried here, her marker scratched with Senna's stroke | Dug up about 800; now **(check)** a car park or allotments |

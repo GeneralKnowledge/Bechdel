@@ -1,6 +1,6 @@
 # Chronology
 
-**Status:** First version, 15 Nov 2026, from the plan doc. What really happened, 616 to 1022, and the document each event left. The reader meets it out of order. Once a document's date, wording or location is here it is fixed, as a historical source would be. Lines marked **(choice)** are open in [PLAN_FINDINGS.md](../docs/PLAN_FINDINGS.md).
+**Status:** First version, 15 Nov 2026, from the plan doc. What really happened, 616 to 1022, and the document each event left. The reader meets it out of order. Once a document's date, wording or location is here it is fixed, as a historical source would be. Every choice in [PLAN_FINDINGS.md](../docs/PLAN_FINDINGS.md) is settled (Reuben, 15 Nov).
 
 Years are counted in the world's own era. Months are the ordinary months. Ages are worked from birth years and may be a year out.
 
@@ -14,7 +14,7 @@ Years are counted in the world's own era. Months are the ordinary months. Ages a
 | 616 | Senna Aldous born. | | |
 | 619 | Dorcas Pryor born. | | |
 | 620 | Lise Rook born (Wexham). | | |
-| 631 | Jory, a dyeworks hand, breaks her leg in a fall from the vats and is discharged unhealed. | Infirmary book: "a dyeworks hand, leg broken in a fall from the vats, discharged unhealed" | City infirmary records |
+| 631 | Jory, a hand at the modest dyeworks owned by Marit's mother, where Marit (about 19) has worked since girlhood, breaks her leg in a fall from the vats and is discharged unhealed. Marit knows her. | Infirmary book: "a dyeworks hand, leg broken in a fall from the vats, discharged unhealed" | City infirmary records |
 | 639 | Jory fined for sleeping out. | City fine | City archive |
 | 640 | Wren born to Marit and Senna's hearth. | | |
 | 643 | Tobi born. | | |
@@ -31,7 +31,7 @@ Years are counted in the world's own era. Months are the ordinary months. Ages a
 | 649 | The Order declares the copies "original by the grace of the Keeper", settling the land titles. | Order decree | Order archive |
 | 651 | Carrow dies in office with honour; buried in the Registry Chapel. | Chapel tomb | Registry Chapel |
 | 652 | Ada born to Senna in Wexham. | Marit's diary: "word from W." | Aldous family papers |
-| 655 | Dorcas, now keeper, writes offering restoration if Senna confesses the copies were forgeries. Senna refuses, and keeps a fair copy of her reply. | Dorcas's letter; Senna's fair copy of her reply **(choice, see findings)** | Rook family box |
+| 655 | Dorcas, now keeper, writes offering restoration if Senna confesses the copies were forgeries. Dorcas sends the offer to Senna in Wexham. Senna refuses restoration on those terms and, as a registrar would, keeps a fair copy of her reply. The two letters are an exchange between old friends with incompatible positions, not an explanation for a future reader. | Dorcas's letter; Senna's fair copy of her reply | Rook family box |
 | 655 | Marit petitions for release from a bond the sentence already dissolved, "in case she is not dead to me". | The petition | Order archive, misfiled |
 | 660 | Dorcas writes a short, cautious Account of Senna Aldous. It never says she died: she "was made dead for the rolls, and the house of the Keeping was the poorer". | The Account | Order library, one surviving copy |
 | 661 | Marit writes to Senna once. | "The children are well. Wren has your hand. Do not write again." | Rook family box |

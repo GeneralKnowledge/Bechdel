@@ -11,7 +11,7 @@ The **Near** column records known near-clashes and what is done about them. It i
 | Tamsin | Tamsin Hale | Title researcher, 39; ordained at the Calloway registry at 22, freelance since a falling-out with Agnes | Main | Bale (Honor), surnames only; low |
 | Juno | Juno Marr | Tamsin's hearth partner, 36; music teacher, rehearsing the anniversary choir | No | |
 | Kate | Kate Aldous | Tamsin's oldest friend, 40; ward nurse; descended from Marit's son Tobi; on the lay committee for the Cause | Yes | |
-| Aunt Ros | Rosamund Aldous | Kate's aunt, who holds the Aldous family papers, Marit's diary among them. **New name**, needed for I-04 | No | |
+| Aunt Ros | Rosamund Aldous | Kate's aunt, who holds the Aldous family papers, Marit's diary among them. **New name**, needed for I-08. Believes Marit was protecting the children | No | |
 | Orla | Orla Rook | The elder Rook sister, 51; pharmacist; wants to sell the orchard | No | Oriel (different centuries; never in one scene) |
 | Bryony | Bryony Rook | The younger sister, 46; works the orchard; reads at the Wexham meeting house | Yes | |
 | Hesketh | Mother Hesketh, Mother Hesketh Lorne | Advocate of the Cause; a believing historian | No | |
@@ -27,7 +27,7 @@ The **Near** column records known near-clashes and what is done about them. It i
 | Handle | Also on the page | Who | Dates | Near |
 |---|---|---|---|---|
 | Senna | Senna Aldous; the saint; the schoolmistress | Junior registrar, then Wexham schoolmistress | 616 to 678 | |
-| Marit | Marit Aldous | Dyer; Senna's hearth partner; the diary | 612 to 690 | |
+| Marit | Marit Aldous | Dyer; Senna's hearth partner; the diary. Worked from girlhood at the dyeworks her mother owned, and knew Jory there (her mother has no handle and no part in the mystery) | 612 to 690 | |
 | Wren | | Marit's daughter, 7 in 647 | born 640 | Win (weak) |
 | Tobi | | Marit's son, 4 in 647; Kate's ancestor | born 643 | |
 | Dorcas | Dorcas Pryor, Keeper Pryor | Senna's fellow clerk and friend; keeper from 655; the 660 Account | 619 to 694 | |

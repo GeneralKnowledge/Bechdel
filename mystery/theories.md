@@ -16,7 +16,7 @@ The main mystery is answered completely by the end. These are facts, and the boo
 
 Ambiguity on motive, never on fact.
 
-- **Why Marit let Senna go.** The diary supports love, anger and the children's standing. Tamsin reads love; Perpetua reads anger; Kate refuses both (see [PLAN_FINDINGS.md](../docs/PLAN_FINDINGS.md) item 9 on how to stage that without handing Kate the book's thesis). The reader keeps the question after the book ends.
+- **Why Marit let Senna go.** The diary supports love, anger and the children's standing. Tamsin reads love; Perpetua reads anger; Kate will not accept either as the whole of it. Kate's reading is always a family quarrel, never the book's verdict (Reuben, 15 Nov): she argues with Aunt Ros, who has a real case of her own (Marit was protecting the children), and the argument is dropped the way family arguments are. It starts in I-08, before anyone knows Marit's secret, and is reopened once the family learns it. The book does not settle Marit's motive. The reader keeps the question after the book ends.
 - **Dorcas: love or ambition first.** Her gains are on the record; her 655 offer may be kindness, a test or self-protection.
 - **The healing at the shrine.** One believer and one sceptic each read it their own way.
 
@@ -25,7 +25,7 @@ Ambiguity on motive, never on fact.
 | Layer | Expected reader | Fair-play plants (see [clues.tsv](clues.tsv)) |
 |---|---|---|
 | Senna lived | A clever reader may guess in Movement I or II. That is fine. | C01, C02, C04 |
-| The tomb holds Jory | Very few should guess before V, but every one of them should be able to point back to the page | C20 (I-03), C26 (I-08), C28 (interlude), C18 (III), C16 (I-08) |
+| The tomb holds Jory | Very few should guess before V, but every one of them should be able to point back to the page | C20 (I-03), C26 (I-08), C28 (interlude), C18 (III), C16 (I-07) |
 | Marit chose | Revealed in IV and V; argued, never settled | C06, C24, C15 |
 
 The Movement I questionnaire tests the second layer: if most readers name Jory after Movement I, the plants are too loud.
