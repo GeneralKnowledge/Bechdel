@@ -1,6 +1,21 @@
 # Blind voice pilot
 
-Stage 4. Not started. Runs once the whole book is storyboarded and Reuben has approved the contract.
+Stage 4. **Packet ready, 15 Nov 2026**: the two scenes (I-05, I-08) are drafted at full length, the four documents are canon, and the shuffled packet and its key are in project files (`bechdel/pilot/packet.md`, `bechdel/pilot/key.md`). 
+
+## Result (15 Nov 2026): passed, on two cold reads by fresh Claude readers
+
+Reuben chose a fresh Claude read now and a person's read later as the real gate. Answers are in project files (`bechdel/pilot/results.md`).
+
+| Test | Read 1 | Read 2 |
+|---|---|---|
+| The scenes not both ranked below all four documents | E first, B third | E first, B third |
+| At least three hands in the documents | Four | Four (A built on F, rightly) |
+| The faith beautiful or neither | Neither, leaning beautiful | Neither, leaning beautiful |
+| The premise noticed in no more than one place | Two flickers, after the folder name had primed the reader | Once, taken as how the world is |
+
+Read 1 was primed by a folder name and noticed the premise at "widowed" and "certain women of a great house". Both were changed, and read 2 ran from a neutral folder. Lines both readers found explaining what the scene had shown were cut or shortened (I-08's hall, Kate's pause after "Nobody does"); "seventeen years" against "fifteen" in I-05 was fixed. Read 2 heard one wit in Marit and Senna: fixed in the mind sheets, not the scenes.
+
+A person's read is still to come: one mystery reader with no interest in the premise, on the same packet.
 
 On *Ides*, Books 2 and 0 each wrote three storyboarded scenes at full length before any other prose, shuffled them unlabelled with three scenes from the finished Book 1, and asked an outside reader to rank them and say whether any read as a different writer or knew too much. Both passed, and the first outside reader of Book 0's full draft asked only for a restrained pass. Book 1, which had no pilot, needed a full-book voice pass after an outside reader found every viewpoint thought alike.
 

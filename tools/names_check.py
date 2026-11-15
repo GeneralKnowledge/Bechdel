@@ -19,7 +19,7 @@ from itertools import combinations
 from pathlib import Path
 
 NAMES = Path(__file__).resolve().parent.parent / "canon" / "names.md"
-SKIP_TITLES = {"mother", "sister", "keeper", "saint", "councillor", "aunt", "the", "of", "registrar-general"}
+SKIP_TITLES = {"mother", "sister", "keeper", "saint", "councillor", "aunt", "the", "of", "registrar-general", "child", "girl"}
 
 
 def distance(a, b):

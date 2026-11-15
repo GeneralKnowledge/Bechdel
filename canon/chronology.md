@@ -15,10 +15,11 @@ Years are counted in the world's own era. Months are the ordinary months. Ages a
 | 619 | Dorcas Pryor born. | | |
 | 620 | Lise Rook born (Wexham). | | |
 | 631 | Jory, a hand at the modest dyeworks owned by Marit's mother, where Marit (about 19) has worked since girlhood, breaks her leg in a fall from the vats and is discharged unhealed. Marit knows her. | Infirmary book: "a dyeworks hand, leg broken in a fall from the vats, discharged unhealed" | City infirmary records |
-| 639 | Jory fined for sleeping out. | City fine | City archive |
+| 639 | Jory fined for sleeping out. | City fine: "Jory, of no roll, for sleeping out by the Registry Chapel" | City archive |
 | 640 | Wren born to Marit and Senna's hearth. | | |
 | 643 | Tobi born. | | |
 | 645 | Senna notices altered entries favouring the Teague household, which Benedicta Teague asked Carrow for. They are "the eastern entries": smallholdings around Wexham, east of Calloway, the Rook orchard among them, moved on the roll into Teague hands. | Benedicta's note to Carrow, "the eastern entries, as we discussed"; Senna's working notes in the margins of an old survey | Teague papers, city archive; Registry survey room, uncatalogued |
+| 646 (autumn) | The Aldous dyeworks, which made Registry ink as well as dyeing cloth, supplies one large order of ink, the only one that year. | Dyeworks ink book | City archive |
 | 646 (winter) | Senna copies and corrects the affected rolls at night, in one ink, with her hooked correction stroke. | The copies | Registry Chapel, displayed as relics |
 | 646 | Marit notices the night work. | Marit's diary: "S. tired and secret all winter" | Aldous family papers, held by Kate's aunt |
 | 647 (early spring) | Keeper Ysolde Carrow finds the copies and accuses Senna of forgery. | The charge sheet: the evidence of forgery is the copies themselves | Order archive |
@@ -29,6 +30,7 @@ Years are counted in the world's own era. Months are the ordinary months. Ages a
 | 647 | Senna arrives in Wexham with no papers. Lise Rook takes her in; Wexham knows the registrar who said the eastern entries were false. | School record: "Senna, from Calloway, to teach letters" | Wexham school records |
 | 649 | Dorcas produces the copies in court. The Teague claims fail "on the rolls as they now stand", and the eastern land goes back to the Wexham smallholders, Lise Rook's household among them. This is why Wexham takes Senna in without asking for papers. | Court judgment | City archive |
 | 649 | The Order declares the copies "original by the grace of the Keeper", settling the land titles. | Order decree | Order archive |
+| 649 | The altered rolls are cancelled and locked away as struck volumes. | The cancelled Wexham roll of 644, with the forged line along the pear row's eastern edge | Registry stacks, locked press |
 | 651 | Carrow dies in office with honour; buried in the Registry Chapel. | Chapel tomb | Registry Chapel |
 | 652 | Ada born to Senna in Wexham. | Marit's diary: "word from W." | Aldous family papers |
 | 655 | Dorcas, now keeper, writes offering restoration if Senna confesses the copies were forgeries. Dorcas sends the offer to Senna in Wexham. Senna refuses restoration on those terms and, as a registrar would, keeps a fair copy of her reply. The two letters are an exchange between old friends with incompatible positions, not an explanation for a future reader. | Dorcas's letter; Senna's fair copy of her reply | Rook family box |
@@ -48,12 +50,36 @@ Years are counted in the world's own era. Months are the ordinary months. Ages a
 
 ## 1022
 
-| When | What |
-|---|---|
-| 14 December 1021 | Tamsin takes the orchard job (I-01). |
-| 31 December 1021 | The household Reading; the anniversary year begins. |
-| 9 April 1022 | The 375th anniversary of the sentence; the translation of the bones. |
-| Midsummer 1022 | The Order's vote on the Cause; the orchard settlement. |
+Weekdays: 1 January 1022 and 9 April 1022 are both Saturdays. Fen's column runs on Saturdays; Hesketh and Perpetua lunch on Wednesdays.
+
+| When | What | Scene |
+|---|---|---|
+| 14 December 1021 | Tamsin takes the orchard job | I-01 |
+| 31 December 1021 | The household Reading; the anniversary year begins | I-08 |
+| 2 January | Tamsin's interim report names the letter of 668 | II-01 |
+| 15 January | Fen's first column about the letters, from Orla | II-05 |
+| 27 January | Hild's Day | II-07 |
+| 5 February | Kate asks Tamsin to stop | II-09 |
+| 10 February | Tamsin and Perpetua find Dorcas's Account | III-01 |
+| 11 March | Tamsin's wrong answer, in writing | III-09 |
+| 14 March | Perpetua's preliminary report | III-10 |
+| 18 March | Tamsin's search pass withdrawn | III-11 |
+| 21 March | Senna's 645 notes disprove the wrong answer | IV-01 |
+| 24 March | The tribunal register and the charge sheet | IV-02 |
+| 26 March | The Teague papers; Delphine learns | IV-04 |
+| 3 April | Perpetua withdraws her report; Hesketh decides to examine the bones | IV-07 |
+| 8 April | Juno's anniversary concert | V-01 |
+| 9 April | The 375th anniversary of the sentence; the tomb opened for the translation | V-02 |
+| 11 April | Senna's grave in Wexham | V-03 |
+| 16 April | Fen: "The Saint Who Lived?" | V-04 |
+| 22 April | Tamsin identifies Jory | V-06 |
+| 28 April | Hesketh decides to withdraw the Cause | V-07 |
+| 16 May | Tamsin tells Kate | VI-01 |
+| 30 May | The Cause withdrawn; Perpetua resigns; Delphine's statement | VI-02 |
+| 6 June | The orchard settled | VI-03 |
+| 12 June | Tamsin refuses the oath | VI-04 |
+| 19 June | The housing vote; Jory taken in | VI-05 |
+| 24 June, midsummer | The Order's decree; Jory copied into the public roll | VI-06 |
 
 ## Arithmetic checked
 
