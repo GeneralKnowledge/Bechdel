@@ -19,4 +19,4 @@ Fixed already, from the plan:
 - Dorcas's will, 694: "to the schoolhouse of Wexham, for pens".
 - The hymn: *Write her where the fire is kept, / Read her when the house is still; / Though the hand that wrote her fail, / Another hand will, another will.*
 
-Needed before Movement I is drafted: Marit's diary line about the porch woman (clue C26, read in I-08).
+Needed before Movement I is drafted: Marit's diary entry with the porch woman (clue C26, read in I-08). Working wording, to be settled when drafted: one item in a run of dye orders, "Spoiled madder to the woman on the chapel porch. She knew the colour by the smell." It must not mention a leg, the vats or a name (Reuben, 15 Nov): the reader should be able to reconstruct Jory afterwards without an arrow pointing at her now.

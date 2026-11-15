@@ -4,6 +4,21 @@ Putting the plan into a contract, a chronology, a names table, a clue ledger and
 
 **Short answer:** three names are close enough to confuse a reader and are worth changing before any drafting (items 1 to 3). Two mechanics need one sentence of canon each (items 5 and 6). The second layer (the tomb holds Jory) had too few early plants in the plan's ledger; the storyboard adds them, for Reuben to approve (item 8). The interludes can do fair-play work if they are ordered for it (item 7).
 
+## Decisions (Reuben, 15 Nov 2026, review of PR #1)
+
+| # | Decision | Done in |
+|---|---|---|
+| 1 | Merrit renamed **Ada** | `canon/names.md`, `canon/chronology.md` |
+| 2 | Perpetua Vane renamed **Perpetua Gaunt** | `canon/names.md` |
+| 3 | Win Haskett renamed **Win Corley** | `canon/names.md`, `voice/MIND_SHEETS.md`, `mystery/clues.tsv` |
+| 4 | Bett Langley and Benedicta Teague both kept: the likeness allows one fair misreading of "B. L." | `canon/names.md` |
+| 6 | Approved: the Teagues wanted Wexham's eastern land, which went back to the Wexham smallholders in 649 | `canon/chronology.md`, `canon/places.md` |
+| 8 | C26 approved with a refinement: the diary line must not mention the leg, the vats or a name. Jory should be available to the reader, not salient | `mystery/clues.tsv`, `storyboard/scenes.tsv`, `canon/documents/README.md` |
+
+**Still open** (not covered by the review): 5 (Senna's fair copy of her reply), 7 (interlude order), 9 (staging Kate's reading of Marit), 10 ("Reading" as Tamsin's coinage), 12 (the dyeworks as Marit's mother's). Item 11 was settled with the calendar (storyboard choice 3). Item 13 is a watch item.
+
+## Findings
+
 | # | Finding | Severity | Recommendation |
 |---|---|---|---|
 | 1 | **Marit and Merrit.** Senna's hearth partner and the daughter Senna had in Wexham differ by two letters, and both turn up in the letters and the diary in Movements IV and V, often in the same paragraph. `tools/names_check.py` flags it. | Medium | Rename the daughter. Anything that does not start with M and is not close to Marit, Wren or Tobi: for example **Ada**. |
@@ -13,7 +28,7 @@ Putting the plan into a contract, a chronology, a names table, a clue ledger and
 | 5 | **Senna's reply to Dorcas is in the Rook box.** A letter Senna sent would be in Dorcas's papers, not Senna's. | Low | Senna kept a fair copy of her reply, which is her habit as a copyist and is in character. Added to the chronology as a choice. |
 | 6 | **How a Wexham orchard is among the Teague entries.** The 668 letter describes the Rook orchard's boundary as the forged entry had it, so the orchard was one of the entries Carrow altered for the Teagues, and Bryony's orchard is finally settled "on the corrected roll". The plan does not say why the Teagues wanted Wexham land. | Medium | Wexham lies east of Calloway, and Benedicta's note asks for "the eastern entries". After the 649 judgment the land went back to the Wexham smallholders, Lise Rook's household among them. This also gives Senna a reason Wexham's people would take her in without papers. **Reuben to approve**: it adds a motive to Senna's choice of Wexham. |
 | 7 | **The interludes can carry fair play.** Several clues turn in IV with nothing planted earlier (the steward's payment, Benedicta's note). | Medium | Order the five interludes so each plants what the next movement turns, without naming anyone: after I, **Jory** (the soup); after II, **Hanne Rusk** (an errand for her mistress, a note carried); after III, **Bett** (the day she took the money); after IV, **the cataloguer** (the petition she files); after V, none, or Jory again, briefly. |
-| 8 | **The second layer had too few early plants.** The plan's guardrail says to plant Jory "in Marit's diary and the alms book early", but its ledger has no diary entry about Jory and turns the alms book only in V. The storyboard adds a diary line about "the lame woman from the porch who used to work the vats" (C26, read at the Reading in I-08), the alms book in a chapel case (C20, I-03) and the soup in Jory's interlude (C28). | Medium | Approve C26. The diary line's exact words are a clue and should be drafted before I-08; it goes in `canon/documents/`. The Movement I questionnaire tests whether the plants are too loud. |
+| 8 | **The second layer had too few early plants.** The plan's guardrail says to plant Jory "in Marit's diary and the alms book early", but its ledger has no diary entry about Jory and turns the alms book only in V. The storyboard adds a diary line about the woman on the chapel porch (C26, read at the Reading in I-08), the alms book in a chapel case (C20, I-03) and the soup in Jory's interlude (C28). | Medium | Approve C26. The diary line's exact words are a clue and should be drafted before I-08; it goes in `canon/documents/`. The Movement I questionnaire tests whether the plants are too loud. |
 | 9 | **Kate "refuses both" readings of Marit.** On *Ides*, a reader flagged secondary characters handed the sentence that explains the lead ("Horace's father's freedom explains Brutus's mercy"). Kate's line risks being the book's verdict on Marit. | Low | Kate is a POV in the proposed contract, so stage it as her family's quarrel, with Aunt Ros on the other side, not as a summing-up. Watchlist question 8. |
 | 10 | **"Reading" means two things.** The plan has Tamsin coin the word "a Reading" for a story everyone repeats without checking, and the Reading is also the household ritual. | Low | Keep the pun, which is good, but let Tamsin say it aloud once, to Juno, after I-08; the narration never uses it in that sense. Or choose another word for the coinage. |
 | 11 | **No season or date for 1022.** The plan dates the present only to the year. | Low; needed for the storyboard | Storyboard choice 3: anniversary on 9 April 1022; the Reading on the last night of the year; the book from mid-December 1021 to midsummer 1022. |

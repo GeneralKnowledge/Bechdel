@@ -1,6 +1,6 @@
 # Chronology
 
-**Status:** First version, 15 Nov 2026, from the plan doc. What really happened, 616 to 1022, and the document each event left. The reader meets it out of order. Once a document's date, wording or location is here it is fixed, as a historical source would be. Lines marked **(choice)** are open in [PLAN_FINDINGS.md](../docs/PLAN_FINDINGS.md) or the storyboard README.
+**Status:** First version, 15 Nov 2026, from the plan doc. What really happened, 616 to 1022, and the document each event left. The reader meets it out of order. Once a document's date, wording or location is here it is fixed, as a historical source would be. Lines marked **(choice)** are open in [PLAN_FINDINGS.md](../docs/PLAN_FINDINGS.md).
 
 Years are counted in the world's own era. Months are the ordinary months. Ages are worked from birth years and may be a year out.
 
@@ -18,19 +18,19 @@ Years are counted in the world's own era. Months are the ordinary months. Ages a
 | 639 | Jory fined for sleeping out. | City fine | City archive |
 | 640 | Wren born to Marit and Senna's hearth. | | |
 | 643 | Tobi born. | | |
-| 645 | Senna notices altered entries favouring the Teague household, which Benedicta Teague asked Carrow for. | Benedicta's note to Carrow, "the eastern entries, as we discussed"; Senna's working notes in the margins of an old survey | Teague papers, city archive; Registry survey room, uncatalogued |
+| 645 | Senna notices altered entries favouring the Teague household, which Benedicta Teague asked Carrow for. They are "the eastern entries": smallholdings around Wexham, east of Calloway, the Rook orchard among them, moved on the roll into Teague hands. | Benedicta's note to Carrow, "the eastern entries, as we discussed"; Senna's working notes in the margins of an old survey | Teague papers, city archive; Registry survey room, uncatalogued |
 | 646 (winter) | Senna copies and corrects the affected rolls at night, in one ink, with her hooked correction stroke. | The copies | Registry Chapel, displayed as relics |
 | 646 | Marit notices the night work. | Marit's diary: "S. tired and secret all winter" | Aldous family papers, held by Kate's aunt |
 | 647 (early spring) | Keeper Ysolde Carrow finds the copies and accuses Senna of forgery. | The charge sheet: the evidence of forgery is the copies themselves | Order archive |
 | 647 | The steward Hanne Rusk pays the porter Bett Langley to testify. | Steward's accounts: "B. L., for her word" | Teague papers, city archive |
-| 647, 9 April **(choice)** | The tribunal convicts. Benedicta Teague sits on the bench. Senna is made dead to the Keeping: struck from every roll, her hearth bond dissolved, her name read among the dead. | Tribunal register: "Senna Aldous, registrar, made dead to the Keeping, for the rolls" | Order archive |
+| 647, 9 April | The tribunal convicts. Benedicta Teague sits on the bench. Senna is made dead to the Keeping: struck from every roll, her hearth bond dissolved, her name read among the dead. | Tribunal register: "Senna Aldous, registrar, made dead to the Keeping, for the rolls" | Order archive |
 | 647 (spring) | Jory of the porch dies. Senna pays for her burial in the field of the unwritten and scratches her stroke on the marker. | Chapel alms book: "Jory of the porch, bread and a blanket", then nothing after that week | Registry Chapel |
 | 647 | Marit lets Senna go and tells the children their mother is dead. | Marit's diary | Aldous family papers |
-| 647 | Senna arrives in Wexham with no papers. Lise Rook takes her in. | School record: "Senna, from Calloway, to teach letters" | Wexham school records |
-| 649 | Dorcas produces the copies in court. The Teague claims fail "on the rolls as they now stand". | Court judgment | City archive |
+| 647 | Senna arrives in Wexham with no papers. Lise Rook takes her in; Wexham knows the registrar who said the eastern entries were false. | School record: "Senna, from Calloway, to teach letters" | Wexham school records |
+| 649 | Dorcas produces the copies in court. The Teague claims fail "on the rolls as they now stand", and the eastern land goes back to the Wexham smallholders, Lise Rook's household among them. This is why Wexham takes Senna in without asking for papers. | Court judgment | City archive |
 | 649 | The Order declares the copies "original by the grace of the Keeper", settling the land titles. | Order decree | Order archive |
 | 651 | Carrow dies in office with honour; buried in the Registry Chapel. | Chapel tomb | Registry Chapel |
-| 652 | Merrit born to Senna in Wexham **(choice: name, see findings)**. | Marit's diary: "word from W." | Aldous family papers |
+| 652 | Ada born to Senna in Wexham. | Marit's diary: "word from W." | Aldous family papers |
 | 655 | Dorcas, now keeper, writes offering restoration if Senna confesses the copies were forgeries. Senna refuses, and keeps a fair copy of her reply. | Dorcas's letter; Senna's fair copy of her reply **(choice, see findings)** | Rook family box |
 | 655 | Marit petitions for release from a bond the sentence already dissolved, "in case she is not dead to me". | The petition | Order archive, misfiled |
 | 660 | Dorcas writes a short, cautious Account of Senna Aldous. It never says she died: she "was made dead for the rolls, and the house of the Keeping was the poorer". | The Account | Order library, one surviving copy |
@@ -50,10 +50,10 @@ Years are counted in the world's own era. Months are the ordinary months. Ages a
 
 | When | What |
 |---|---|
-| mid-December 1021 | Tamsin takes the orchard job (I-01). |
-| 31 December 1021 **(choice)** | The household Reading; the anniversary year begins. |
-| 9 April 1022 **(choice)** | The 375th anniversary of the sentence; the translation of the bones. |
-| Midsummer 1022 **(choice)** | The Order's vote on the Cause; the orchard settlement. |
+| 14 December 1021 | Tamsin takes the orchard job (I-01). |
+| 31 December 1021 | The household Reading; the anniversary year begins. |
+| 9 April 1022 | The 375th anniversary of the sentence; the translation of the bones. |
+| Midsummer 1022 | The Order's vote on the Cause; the orchard settlement. |
 
 ## Arithmetic checked
 

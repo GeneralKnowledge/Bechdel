@@ -37,7 +37,7 @@ Neither is an order to cut endings, and the watchlist adds the other half: not e
 
 **What she misunderstands:** that the work is separate from her life. That Juno's question can wait for the end of this job. That Kate will forgive being treated as a source because the truth is the truth.
 
-**In talk:** dry, exact, a beat slow when someone is upset, because she is still reading the situation. Better with Win Haskett than with Kate.
+**In talk:** dry, exact, a beat slow when someone is upset, because she is still reading the situation. Better with Win Corley than with Kate.
 
 **Body:** reading glasses pushed up and forgotten; a callus on her second finger from years of pens; cold hands in archives.
 

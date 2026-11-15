@@ -6,7 +6,7 @@ by Reuben Dennison
 
 ---
 
-Every year the city of Calloway reads aloud the Life of Senna Aldous, the registrar who died for the rolls in 647. The rolls she saved hang in the Registry Chapel. Her body lies in the chapel tomb. In the 375th year after her death, the Order of Keepers is ready to make her a saint.
+Every year the city of Calloway reads aloud the Life of Senna Aldous, the registrar who died for the rolls in 647. The rolls she saved hang in the Registry Chapel, and the chapel tomb is believed to hold her body. In the 375th year after her death, the Order of Keepers is ready to make her a saint.
 
 Tamsin Hale, a title researcher who once swore her keeper's oath "by Senna's rolls", takes a dull job in the town of Wexham: two sisters, not speaking, fighting over the boundary of an orchard. The younger sister produces a bundle of family letters to settle it. They are signed "Senna" and dated 668, twenty-one years after the saint's death. In the margins is a small hooked correction stroke that Tamsin has looked at every working day of her career.
 
@@ -23,20 +23,20 @@ How the work is organised, and why, is in [docs/WORKING_GUIDE.md](docs/WORKING_G
 | Stage | What | Status |
 |---|---|---|
 | 0 | [Story plan](https://claude.ai/artifact/R7xyPomX2ZuymeQyya4d7a) and Reuben's answers to its checklist | Done, 23 Oct 2026 |
-| 1 | [Contract](CONTRACT.md) | Draft. Items Reuben settled on 23 Oct are marked; the rest are recommendations awaiting his check |
+| 1 | [Contract](CONTRACT.md) | Approved by Reuben, 15 Nov 2026 |
 | 2 | Canon pack: [chronology](canon/chronology.md), [names](canon/names.md), [places](canon/places.md), [the Keeping](canon/faith.md); mystery: [clue ledger](mystery/clues.tsv), [theories and what stays open](mystery/theories.md) | First version, from the plan |
 | 3 | [Mind sheets](voice/MIND_SHEETS.md), [watchlist](voice/WATCHLIST.md), [storyboard](storyboard/README.md), [questionnaire](storyboard/questionnaire.md) | Movement I storyboard v1 (eight scenes and an interlude); Movements II to VI not yet |
 | 4 | [Blind voice pilot](pilot/README.md) | Not started |
 | 5 | Draft by movement | Not started. No prose until the storyboard and the pilot pass |
 | 6 | Structure audit, cold read, freeze | Not started |
 
-Findings from building stages 1 to 3, including things in the plan worth settling before drafting: [docs/PLAN_FINDINGS.md](docs/PLAN_FINDINGS.md).
+Findings from building stages 1 to 3, with Reuben's decisions and what is still open: [docs/PLAN_FINDINGS.md](docs/PLAN_FINDINGS.md). What comes next, including the world bible: [docs/ROADMAP.md](docs/ROADMAP.md).
 
 ## Checks
 
 ```
 python3 tools/storyboard_check.py   # dates, POV gaps, movement budgets, where the anniversary falls, clue fair play
-python3 tools/names_check.py        # one handle, one person; near-clashes listed
+python3 tools/names_check.py        # one handle, one person, retired names; near pairs printed as warnings only
 ```
 
 Both run on every pull request.
@@ -46,3 +46,4 @@ Both run on every pull request.
 One line per change.
 
 - 2026-11-15: Repository set up from the plan, using the method learnt on *The Ides of March* (Books 2 and 0). Contract draft, canon pack, clue ledger and theories, mind sheets, watchlist, Movement I storyboard v1 with questionnaire and key, plan findings, check tools and CI.
+- 2026-11-15: Reuben's review of PR #1. Contract approved; storyboard choices settled as recommended; Merrit renamed Ada, Perpetua Vane renamed Perpetua Gaunt, Win Haskett renamed Win Corley; Bett and Benedicta kept; Wexham's eastern land approved; C26 approved without the leg, the vats or a name; README no longer states that Senna lies in the tomb; manual clue verification added to the working guide; names check reports near pairs as warnings and fails on retired names; roadmap added.

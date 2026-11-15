@@ -25,7 +25,7 @@ Ambiguity on motive, never on fact.
 | Layer | Expected reader | Fair-play plants (see [clues.tsv](clues.tsv)) |
 |---|---|---|
 | Senna lived | A clever reader may guess in Movement I or II. That is fine. | C01, C02, C04 |
-| The tomb holds Jory | Very few should guess before V, but every one of them should be able to point back to the page | C20 (I-03), C26 (I-04), C28 (interlude), C18 (III), C16 (I-08) |
+| The tomb holds Jory | Very few should guess before V, but every one of them should be able to point back to the page | C20 (I-03), C26 (I-08), C28 (interlude), C18 (III), C16 (I-08) |
 | Marit chose | Revealed in IV and V; argued, never settled | C06, C24, C15 |
 
 The Movement I questionnaire tests the second layer: if most readers name Jory after Movement I, the plants are too loud.

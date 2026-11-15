@@ -2,6 +2,10 @@
 
 How the plan, canon, storyboard and drafts fit together, and how work on the book is done. The method is the one Reuben's *Ides of March* project settled on for its Books 2 and 0; [LESSONS_FROM_IDES.md](LESSONS_FROM_IDES.md) says where each part came from.
 
+## Three layers
+
+Reuben's distinction (15 Nov): **the world** (history, geography, customs, money, faith, institutions, ordinary life, existing independently of the novel); **the story** (what actually happened, the people, the mystery, the evidence, the structure); **the manuscript** (scenes, prose, documents, reader feedback). This repository is strong on the second and third and thin on the first, which the [roadmap](ROADMAP.md) puts first. Its governing rule: **the world must continue to make sense when the mystery is removed from it.**
+
 ## Source of truth (read in this order)
 
 1. **The contract**, [CONTRACT.md](../CONTRACT.md). Decisions only Reuben changes.
@@ -45,10 +49,25 @@ Draft a movement once at full length from the storyboard and the mind sheets. Th
 1. **The three tests** on every scene: action (what happens and what changes), point of view (what would this woman notice, misread, hide), explanation (is the narration telling the reader what the scene has shown).
 2. **The two ending tests**: take the last sentence away; end on the action instead.
 3. **The watchlist**, [voice/WATCHLIST.md](../voice/WATCHLIST.md).
-4. **Fair play**: every clue the storyboard says this movement plants is on the page, and no clue turns before it was planted. `python3 tools/storyboard_check.py`.
-5. **Document length**: no in-world document longer than a page.
+4. **Fair play, by script**: `python3 tools/storyboard_check.py`. It checks order only: that each clue is planted in the storyboard before the movement where it turns. It cannot tell whether a clue is on the page or whether it works.
+5. **Fair play, by hand.** For every clue this movement plants, finds or turns, record one line in the movement's README against five checks (Reuben, 15 Nov):
 
-Record what changed in one changelog line for the movement, with a short list of things to check in the movement's README.
+   | Check | Question |
+   |---|---|
+   | Presence | Is it actually on the page? Quote the line. |
+   | Visibility | Could a reader reasonably notice it? |
+   | Interpretation | Does its first meaning make sense to the woman who meets it? |
+   | Fairness | Can its eventual meaning be reconstructed from what the reader has been given? |
+   | Independence | Does it add evidence, or only repeat another clue in a new place? |
+
+   This is judgement, not scoring. Do not try to automate it.
+6. **Document length**: no in-world document longer than a page.
+
+Record what changed in one changelog line for the movement, with the clue table and a short list of things to check in the movement's README.
+
+## Instruments, not requirements
+
+Everything above (mind sheets, three tests, ending tests, watchlist, questionnaire, clue ledger, checks) is for finding problems. None of it is something a scene has to visibly satisfy. Not every scene demonstrates its POV's lens, not every conversation holds a misunderstanding, and not every document hides a clue. Most of the world has nothing to do with Senna. The novel should feel less engineered than the process that produces it. The checks stay light: they look at order, names and dates, never at literary quality.
 
 ## Changing the book later
 

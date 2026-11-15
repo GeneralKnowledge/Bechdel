@@ -2,11 +2,15 @@
 """Check canon/names.md: one handle, one person.
 
 Reads the first two columns (Handle, Also on the page) of every person table.
-Fails if a name is used for two people (case-insensitive). Lists pairs of
-names, across different people, that are close enough to confuse a reader:
-an edit distance of 1, or 2 when either name has six letters or more.
-Names shared within a family (Aldous, Rook) are not flagged. The Near
-column in names.md records what is done about each.
+Fails if a name is used for two people (case-insensitive), or if a name on
+the "Retired names" line is used again.
+
+Also prints, as warnings only, pairs of names across different people that
+are close enough to confuse a reader: an edit distance of 1, or 2 when either
+name has six letters or more. Names shared within a family (Aldous, Rook) are
+not flagged. Warnings never fail the check, and the script does NOT read the
+Near column in names.md: whether each pair is recorded there, and what is
+done about it, is checked by a person.
 
 Usage: python3 tools/names_check.py
 """
@@ -55,6 +59,16 @@ def main() -> int:
                 failures += 1
             owner[key] = handle
 
+    import re
+    m = re.search(r"Retired names:\s*(.+?)\.", NAMES.read_text(encoding="utf-8"))
+    retired = {w.strip().lower() for w in m.group(1).split(",")} if m else set()
+    for handle, names in people:
+        for n in names:
+            for w in n.split():
+                if w.strip(",.").lower() in retired:
+                    print(f"RETIRED name {w!r} used for {handle!r}")
+                    failures += 1
+
     # words that could be read alone on the page (given names, surnames)
     words = {}
     for handle, names in people:
@@ -70,11 +84,10 @@ def main() -> int:
         d = distance(a, b)
         if d <= (2 if max(len(a), len(b)) >= 6 else 1):
             near.append((d, a, b, sorted(words[a])[0], sorted(words[b])[0]))
-    print(f"{len(people)} people, {failures} duplicate names")
-    if near:
-        print("\nNear names, for the Near column:")
-        for d, a, b, ha, hb in sorted(near):
-            print(f"  {a.title()} ({ha}) ~ {b.title()} ({hb})  distance {d}")
+    for d, a, b, ha, hb in sorted(near):
+        print(f"WARN near: {a.title()} ({ha}) ~ {b.title()} ({hb})  distance {d}")
+    print(f"\n{len(people)} people, {failures} failures, {len(near)} near-name warnings"
+          " (not checked against the Near column)")
     return 1 if failures else 0
 
 
